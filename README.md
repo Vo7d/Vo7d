@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating things
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 📫 How to reach me ... You won´t
 - 😄 Pronouns: ME/HIM
 - ⚡ Fun fact: is that i have none.
 
