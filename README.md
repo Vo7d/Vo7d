@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hey there! I'm vo7d, a passionate gamer, programmer, skateboarder, and 3D printing technician. This is the place where I bring together my hobbies, skills, and projects. Here’s a bit about me and what I’m up to:
+Hey there! I'm vo7d, a passionate gamer, programmer, skateboarder, beerdrinker, homelab enthusiast and 3D printing technician. This is the place where I bring together my hobbies, skills, and projects. Here’s a bit about me and what I’m up to:
 
 ---
 
