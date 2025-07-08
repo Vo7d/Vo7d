@@ -18,4 +18,7 @@ I'm passionate about turning ideas into code. I enjoy working on:
 
 Thanks for checking out my GitHub! Feel free to explore my repos, open issues, or reach out if you’d like to collaborate on a project.
 
+If you want to buy me a coffee you can do so here. https://www.paypal.com/donate/?hosted_button_id=U23QPP7RCVDHL 
+Absolutely not necessary but i always appreciate you for it. Only do so if you can.
+
 Happy coding! ✌️
