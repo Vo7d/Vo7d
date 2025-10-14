@@ -1,5 +1,8 @@
 # 👋 Welcome to My GitHub!
 
+I AM CURRENTLY SELLING MY DAYZ SERVERS AS I DON´T HAVE THE TIME TO MAINTAIN THEM ANYMORE. If you are interested, send me a message.
+
+
 Hey there! I'm vo7d, a passionate gamer, programmer, skateboarder, beerdrinker, homelab enthusiast and 3D printing technician. This is the place where I bring together my hobbies, skills, and projects. Here’s a bit about me and what I’m up to:
 
 ---
