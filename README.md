@@ -14,7 +14,7 @@ Hey there! I'm vo7d, a passionate gamer, programmer, skateboarder, beerdrinker, 
 ---
 
 ## 🕹️ Gamer at Heart
-When I'm not coding or printing 3D parts, you'll probably find me immersed in the world of gaming. Whether it's tackling challenging single-player campaigns, strategizing in multiplayer games, or exploring indie titles, gaming is where I recharge and find inspiration.
+When I'm not coding or 3d printing, you'll probably find me immersed in the world of gaming. Whether it's tackling challenging single-player campaigns, strategizing in multiplayer games, or exploring indie titles, gaming is where I recharge and find inspiration.
 
 ## 💻 Programmer
 I'm passionate about turning ideas into code. I enjoy working on:
