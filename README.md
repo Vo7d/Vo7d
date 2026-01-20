@@ -1,13 +1,5 @@
 # 👋 Welcome to My GitHub!
 
-I AM CURRENTLY SELLING MY DAYZ SERVERS AS I DON´T HAVE THE TIME TO MAINTAIN THEM ANYMORE.
-
-The server is https://www.battlemetrics.com/servers/dayz/33321098
-
-For my exact setup. Send 50Euros to the paypal link below and you will get a link to the serverfiles.
-
-Thx
-
 
 Hey there! I'm vo7d, a passionate gamer, programmer, skateboarder, beerdrinker, homelab enthusiast and 3D printing technician. This is the place where I bring together my hobbies, skills, and projects. Here’s a bit about me and what I’m up to:
 
